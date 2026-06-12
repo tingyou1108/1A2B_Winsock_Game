@@ -19,25 +19,35 @@ both clients.
 
 ## Project Overview
 
-This project is a two-player online 1A2B game
-implemented using Winsock TCP sockets.
+# Winsock TCP 1A2B Online Game
 
-The objective of this project is to learn
-network programming, client-server architecture,
-and game state synchronization.
+## Features
+- TCP Socket Communication
+- Client-Server Architecture
+- Turn-Based Synchronization
+- Multiplayer Guessing Game
 
-Player 1
-   |
+## System Architecture
+
+Client 1
+    |
  TCP
-   |
+    |
 Server
-├─ Connection Manager
-├─ Game State Manager
-└─ Result Dispatcher
-   |
+    |
  TCP
-   |
-Player 2
+    |
+Client 2
+
+## State Machine
+
+Waiting
+   ↓
+Guessing
+   ↓
+Result
+   ↓
+Game Over
 
 Project Statistics
 
