@@ -1,1 +1,1 @@
-線上雙人1A2B猜數字遊戲
+online 1v1 1A2B GAME
