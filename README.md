@@ -1,4 +1,4 @@
-Winsock TCP 雙人連線 1A2B 猜數字遊戲
+### Winsock TCP 雙人連線 1A2B 猜數字遊戲
 專案介紹
 
 本專案為使用 C++ 與 Winsock2 API 開發之雙人連線 1A2B 猜數字遊戲。
@@ -88,7 +88,7 @@ Guessing	進行猜測
 Result	回傳結果
 Game Over	結束遊戲
 畫面截圖
-Server 監聽畫面
+### Server 監聽畫面
 <img width="865" height="314" alt="image" src="https://github.com/user-attachments/assets/81a69261-ce11-4415-8ab1-684c9926e9ef" />
 
 
