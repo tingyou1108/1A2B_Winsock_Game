@@ -32,7 +32,7 @@ Server
  TCP
    |
 Player 2
-模組說明
+### 模組說明
 Connection Manager
 
 負責：
@@ -81,7 +81,7 @@ Guessing
 Result
    ↓
 Game Over
-狀態說明
+### 狀態說明
 狀態	功能
 Waiting	等待玩家輸入
 Guessing	進行猜測
@@ -92,10 +92,11 @@ Game Over	結束遊戲
 <img width="865" height="314" alt="image" src="https://github.com/user-attachments/assets/81a69261-ce11-4415-8ab1-684c9926e9ef" />
 
 
-### Client 1
-### Client 2
+### Client 對戰畫面
 <img width="865" height="274" alt="image" src="https://github.com/user-attachments/assets/7f289e02-1a20-41a5-96cc-80966459ea95" />
-技術挑戰
+
+
+### 技術挑戰
 問題一：玩家回合同步
 
 開發初期發現：
